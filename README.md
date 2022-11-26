@@ -1,3 +1,3 @@
 # first-kotlin-project
 
-This is my first project using Kotlin
+This is my first Kotlin project
